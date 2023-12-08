@@ -1,7 +1,7 @@
 import json
 import datetime
 
-from src.operation import Operation
+from operation import Operation
 
 def load_file(file_url):
     '''
