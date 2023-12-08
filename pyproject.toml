@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bank-helper"
+version = "0.1.0"
+description = "This programm help person in the bank"
+authors = ["Антон Федяев <fearthe54@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
